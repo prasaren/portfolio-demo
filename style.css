@@ -20,8 +20,8 @@ padding: 0;
 
 .listItem {
     list-style-type: none;
-    display: inline-block;
-    float:right;
+    /* display: inline-block; */
+    float: right;
     margin-right: 16px;
 }
 
@@ -63,9 +63,6 @@ header {
     border-color: maroon;
 }
 
-#imageBox:hover {
-    
-}
 
 #greetingBox h1{
     font-size: 60px;
