@@ -63,8 +63,39 @@ header {
     border-color: maroon;
 }
 
+#imageBox:hover {
+    
+}
+
 #greetingBox h1{
-    font-size: 40px;
+    font-size: 60px;
 
 }
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:darkslategrey;
+    color: white;
+    text-align: center;
+  }
+
+  .button {
+    background-color: rgb(136, 48, 48); /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {border-radius: 50%;}
+  .button2 {border-radius: 50%;}
+  .button3 {border-radius: 50%;}
+  
